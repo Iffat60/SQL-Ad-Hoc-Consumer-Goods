@@ -12,17 +12,18 @@ This repository contains the files and projects related to my Resume Challenge 4
 ## Projects
 1. **Project Name 1**
    - Description: Brief description of the project.
-   - [Project Files](Projects/Project1/)
+   - [Project Files](Slide10.PNG)
 
 2. **Project Name 2**
    - Description: Brief description of the project.
-   - [Project Files](Projects/Project2/)
+   - [Project Files](Slide11.PNG)
 
 ## Presentations
-- [Presentation 1](Presentations/Presentation1.pdf)
-- [Presentation 2](Presentations/Presentation2.pdf)
+
+- [check out my portfolio](https://codebasics.io/portfolio/IFFAT-NAEEM-ALI-SHAIKH)
+
 - [Video Presentation on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7227947632323624961/)
 
 ## Contact
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/your-profile) or via email at your-email@example.com.
+Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/iffat60) or via email at shaikhiffat60@gmail.com.
 
