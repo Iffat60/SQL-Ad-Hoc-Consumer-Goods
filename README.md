@@ -6,6 +6,7 @@
 ## Overview
 This repository contains the files and projects related to my Resume Challenge 4. Below are the details of the included content.
 
+![company overview](https://github.com/Iffat60/SQL-Ad-Hoc-Consumer-Goods/blob/main/Slide2.PNG)
 ## Resume
 - [Resume](Resume/Your_Resume_File.pdf)
 
